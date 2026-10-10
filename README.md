@@ -1,13 +1,23 @@
+
 # Academic Research Methodology (IT Department)
 
-Welcome to the official repository for the **Academic Research Methodology** course at the University of Kirkuk. This repository hosts all the theoretical lecture notes and practical lab materials distributed throughout the academic semester.
+Welcome to the official repository for the **Academic Research Methodology** course by Dr.-Ing. Dalya Raad Al-Ani at the University of Kirkuk.
 
-## 🎓 Instructor Information
-* **Instructor:** Dr.-Ing. Dalya Raad Al-Ani
-* **Credentials:** Ph.D. in Computer Science / Engineering (Germany)
-* **Affiliation:** University of Kirkuk, College of Computer Science and Information Technology, Department of Information Technology (IT)
+## 📑 Course Syllabus & Weekly Matrix Highlights
+The 15-week roadmap covers foundational scientific reporting, LaTeX environments, literature synthesis, and final presentation preparation. For the complete, detailed markdown table mapping out all 14 practical labs, mid-term examinations, and weekly theory modules, please refer to the fully structured layout in the source documents.
+
+## 🛠️ Required Technical Setup & Tools
+* **LaTeX Compiler Engine:** TeX Live Standalone ISO Distribution
+* **Integrated Development Environment (IDE):** TeXstudio Installer
+* **Presentation Design Suite:** Microsoft Office Word & PowerPoint
+
+## 📚 Core References
+* Kopka, H., & Daly, P. W. (2003). *Guide to LaTeX*.
+* Last, S. (2019). *Technical Writing Essentials*.
+* Swales, J. M., & Feak, C. B. (2012). *Academic Writing for Graduate Students*.
 
 ---
+*Copyright © 2026 Dr.-Ing. Dalya Raad Al-Ani. University of Kirkuk.*
 
 ## 📅 Course Syllabus & Lecture Matrix
 
