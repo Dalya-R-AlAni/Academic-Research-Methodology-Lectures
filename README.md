@@ -17,7 +17,7 @@ Click on the links in the table below to access or download the respective PDF f
 | :--- | :--- | :--- |
 | **Week 01** | [Introduction to Research](Week%2001/Theory_Introduction.pdf) | [Lab 1: Setting up the Environment](Week%2001/Practical_Lab1.pdf) |
 | **Week 02** | [Formal & Informal Technical Reports](Week%2002/Theory_Technical_Reports.pdf) | [Lab 2: LaTeX Structural Templates](Week%2002/Practical_Lab2.pdf) |
-| **Week 03** | [Theory 3: Name of Your Lecture](Week%2003/Theory_Lecture3.pdf) | [Lab 3: Name of Your Lab](Week%2003/Practical_Lab3.pdf) |
+| **Week 03** | [Theory 3: Disclaimer & Acknowledgments](week%2003/Theory_Lecture3.pdf) | [Lab 3: Formatting Technical Reports](week%2003/Practical_Lab3.pdf) |
 | **Week 04** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
 | **Week 05** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
 | **Week 06** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
