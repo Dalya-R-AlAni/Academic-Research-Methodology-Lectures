@@ -23,6 +23,9 @@ The 15-week roadmap covers foundational scientific reporting, LaTeX environments
 ## 📑 Course Syllabus
 📄 **[Download the Complete Course Roadmap (PDF)](Academic%20Research%20MethodologySyllabus.pdf)**
 
+
+📄 **[The Bologna Semester Plan (50 Marks Total))(PDF)](Bologna%20Process%20Academic%20Research%20Methodology/Bologna_Process%20ِAcademic%20Research%20Methodology.pdf)**
+
 Click on the links in the table below to access or download the respective PDF files for each week.
 
 | Week | 📘 Theoretical Lecture (PDF) | 🔬 Practical / Lab Material (PDF) |
