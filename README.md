@@ -23,7 +23,7 @@ Welcome to the official repository for the **Academic Research Methodology** cou
 * **Office Hours:** Refer to the IT Department faculty schedule
 
 ### ☁️ Alternative Cloud Compilation Engine
-* If local installation of **TeX Live** fails or runs slowly on your device, you may use **[Overleaf](https://overleaf.com)** as a free web-based alternative for all course lab assignments.
+* If local installation of **TeX Live** fails or runs slowly on your device, you may use **[Overleaf](https://overleaf.com) ** as a free web-based alternative for all course lab assignments.
 
 
 ## 📑 Course Syllabus & Weekly Matrix Highlights
