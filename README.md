@@ -3,6 +3,29 @@
 
 Welcome to the official repository for the **Academic Research Methodology** course by Dr.-Ing. Dalya Raad Al-Ani at the University of Kirkuk.
 
+## 🎯 Course Overview & Administration
+
+### 👥 Target Audience & Prerequisites
+* **Program:** Information Technology Department
+* **Audience:** Designed for undergraduate students
+* **Focus:** Foundational scientific reporting, LaTeX typesetting, and academic ethics
+
+### 📊 Bologna Process Grading Breakdown
+* **Continuous Assessment (50 Marks Total):**
+  * Quizzes: 10%
+  * Mid-term Examination: 20%
+  * Practical Lab Reports: 20%
+* **Final Evaluation:** As per university regulations
+
+### 💬 Communication & Support
+* **Announcements:** Shared via telegram official channels
+* **Technical Support:** For lab doubts, please open a GitHub Issue in this repository
+* **Office Hours:** Refer to the IT Department faculty schedule
+
+### ☁️ Alternative Cloud Compilation Engine
+* If local installation of **TeX Live** fails or runs slowly on your device, you may use **[Overleaf](https://overleaf.com)** as a free web-based alternative for all course lab assignments.
+
+
 ## 📑 Course Syllabus & Weekly Matrix Highlights
 The 15-week roadmap covers foundational scientific reporting, LaTeX environments, literature synthesis, and final presentation preparation. For the complete, detailed markdown table mapping out all 14 practical labs, mid-term examinations, and weekly theory modules, please refer to the fully structured layout in the source documents.
 
