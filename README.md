@@ -58,7 +58,7 @@ Click on the links in the table below to access or download the respective PDF f
 | **Week 03** | [Theory 3: Disclaimer & Acknowledgments](week%2003/Theory_Lecture3.pdf) | [Lab 3: Formatting Technical Reports](week%2003/Practical_Lab3.pdf) |
 | **Week 04** | [Week 4: Formal & Informal Technical Reports](week%2004/Theory_Lecture4.pdf) | [Lab 4: DOCUMENT LAYOUT CUSTOMIZATION, PAGE GEOMETRY, & CODEBLOCK CONFIGURATIONS](week%2004/Practical_Lab4.pdf) |
 | **Week 05** | [Week 5: Business Correspondence](week%2005/Theory_Lecture5.pdf) | [LAB MANUAL 5: VISUAL ASSET DEPLOYMENT, NATIVE SUBCAPTION MANAGEMENT, & COMPLIANCE TEXT LAYOUTS](week%2005/Practical_Lab5.pdf) |
-| **Week 06** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
+| **Week 06** | [Week 6: Business Correspondence](week%2006/Theory_Lecture6.pdf) | [LAB MANUAL 6: TYPESETTING ALGORITHMIC LOGIC, SUB-NETWORK LEDGERS, & RUNTIME TENSE VERIFICATION](week%2006/Practical_Lab6.pdf) 
 | **Week 07** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
 | **Week 08** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
 | **Week 09** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
