@@ -60,7 +60,7 @@ Click on the links in the table below to access or download the respective PDF f
 | **Week 05** | [Week 5: Business Correspondence](week%2005/Theory_Lecture5.pdf) | [LAB MANUAL 5: VISUAL ASSET DEPLOYMENT, NATIVE SUBCAPTION MANAGEMENT, & COMPLIANCE TEXT LAYOUTS](week%2005/Practical_Lab5.pdf) |
 | **Week 06** | [Week 6: Business Correspondence](week%2006/Theory_Lecture6.pdf) | [LAB MANUAL 6: TYPESETTING ALGORITHMIC LOGIC, SUB-NETWORK LEDGERS, & RUNTIME TENSE VERIFICATION](week%2006/Practical_Lab6.pdf) 
 | **Week 07** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
-| **Week 08** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
+| **Week 08** | [Week 8: Professional Presentations and Oral Defense Mastery](week%2008/Theory_Lecture8.pdf) | [Week 8 (Lab 7 Continued): Expert Lectures (week%2008/Practical_Lab8.pdf) 
 | **Week 09** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
 | **Week 10** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
 | **Week 11** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
