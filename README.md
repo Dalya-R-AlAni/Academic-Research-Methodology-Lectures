@@ -59,7 +59,7 @@ Click on the links in the table below to access or download the respective PDF f
 | **Week 04** | [Week 4: Formal & Informal Technical Reports](week%2004/Theory_Lecture4.pdf) | [Lab 4: DOCUMENT LAYOUT CUSTOMIZATION, PAGE GEOMETRY, & CODEBLOCK CONFIGURATIONS](week%2004/Practical_Lab4.pdf) |
 | **Week 05** | [Week 5: Business Correspondence](week%2005/Theory_Lecture5.pdf) | [LAB MANUAL 5: VISUAL ASSET DEPLOYMENT, NATIVE SUBCAPTION MANAGEMENT, & COMPLIANCE TEXT LAYOUTS](week%2005/Practical_Lab5.pdf) |
 | **Week 06** | [Week 6: Business Correspondence](week%2006/Theory_Lecture6.pdf) | [LAB MANUAL 6: TYPESETTING ALGORITHMIC LOGIC, SUB-NETWORK LEDGERS, & RUNTIME TENSE VERIFICATION](week%2006/Practical_Lab6.pdf) 
-| **Week 07** | [First_Mid_Term_With_Answers](First_Mid_Term/First_MidTerm_With_Answers.pdf) | ⏳ *Coming Soon* |
+| **Week 07** | [First_Mid_Term_With_Answers](First_Mid_Term/First_MidTerm_With_Answers.pdf) | [First_Mid_Term_Practical](First_Mid_Term_Practical/First_MidTerm_Practical_With_Answers.pdf) |
 | **Week 08** | [Week 8: Professional Presentations and Oral Defense Mastery](week%2008/Theory_Lecture8.pdf) | [Week 8 (Lab 7 Continued): Expert Lectures](week%2008/Practical_Lab8.pdf) 
 | **Week 09** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
 | **Week 10** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
