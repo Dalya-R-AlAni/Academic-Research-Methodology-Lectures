@@ -61,7 +61,7 @@ Click on the links in the table below to access or download the respective PDF f
 | **Week 06** | [Week 6: Business Correspondence](week%2006/Theory_Lecture6.pdf) | [LAB MANUAL 6: TYPESETTING ALGORITHMIC LOGIC, SUB-NETWORK LEDGERS, & RUNTIME TENSE VERIFICATION](week%2006/Practical_Lab6.pdf) 
 | **Week 07** | [First_Mid_Term_With_Answers](First_Mid_Term/First_MidTerm_With_Answers.pdf) | [First_Mid_Term_Practical](First_Mid_Term_Practical/First_MidTerm_Practical_With_Answers.pdf) |
 | **Week 08** | [Week 8: Professional Presentations and Oral Defense Mastery](week%2008/Theory_Lecture8.pdf) | [Week 8 (Lab 7 Continued): Expert Lectures](week%2008/Practical_Lab8.pdf) 
-| **Week 09** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
+| **Week 09** | [Week 9: Professional Presentations](week%2009/Theory_Lecture9.pdf) | [Week 9 (Lab 8): Writing & Audio-Visual Lessons](week%2009/Practical_Lab9.pdf) 
 | **Week 10** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
 | **Week 11** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
 | **Week 12** | ⏳ *Coming Soon* | ⏳ *Coming Soon* |
